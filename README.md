@@ -49,7 +49,7 @@ Here are some visual insights into the project's execution and results:
 
 ### 1. Data Loading and Initial Glimpse
 *Include screenshot here showing the output of `X_train.shape`, `y_train.shape` and the first few displayed MNIST digits.*
-![Screenshot of Data Loading and Initial Glimpse](link-to-your-screenshot-1.png)
+![Screenshot of Data Loading and Initial Glimpse](evaluation.jpg)
 
 ### 2. Model Training Progress
 *Include screenshot here showing the output of the model training (the epoch logs with loss and accuracy).*
